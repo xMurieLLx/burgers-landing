@@ -255,14 +255,14 @@ body {
 }
 
 .order {
-	background-image: url(../images/order_image.png);
-	background-position: top centre;
+	background-image: url(../images/order_bg.png);
+	background-position: top center;
 	background-repeat: no-repeat;
 	padding-bottom: 180px;
 	overflow: hidden;
 }
 
-.order.container {
+.order .container {
 	position: relative;
 }
 
